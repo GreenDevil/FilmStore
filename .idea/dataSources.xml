@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1258754623">
+    <data-source source="LOCAL" name="SQLite - film_db.sqlite3" uuid="19ee748b-439a-4bf6-94da-c15ed67e7f13">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/film_db.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="c341415d-2e4c-41a6-97f8-2fbd53a755c0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\DjangoProjects\FilmsStore\FilmsStore\film_db.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

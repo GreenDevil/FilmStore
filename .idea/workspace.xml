@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c5eeee5-3107-4830-bca6-d70aabf3a51d" name="Default" comment="" />
+    <ignored path="FilmsStore.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FilmsStore" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="film.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/films/templates/film.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="65" selection-start="326" selection-end="326" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/films/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="27" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FilmsStore/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="23" selection-start="838" selection-end="838" vertical-scroll-proportion="0.4848485" vertical-offset="318" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/films/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="29" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/films/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="28" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/films/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="38" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="27" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/example.html" />
+        <option value="$PROJECT_DIR$/templates/films.html" />
+        <option value="$PROJECT_DIR$/templates/film.html" />
+        <option value="$PROJECT_DIR$/templates/main.html" />
+        <option value="C:/Python34/Lib/site-packages/django/contrib/staticfiles/templatetags/staticfiles.py" />
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/films/cart.py" />
+        <option value="$PROJECT_DIR$/films/templates/cart.html" />
+        <option value="C:/Python34/Lib/site-packages/django/conf/urls/__init__.py" />
+        <option value="$PROJECT_DIR$/cart/__init__.py" />
+        <option value="$PROJECT_DIR$/templates/cart.html" />
+        <option value="$PROJECT_DIR$/cart/cart.py" />
+        <option value="$PROJECT_DIR$/films/templates/films.html" />
+        <option value="$PROJECT_DIR$/cart2/admin.py" />
+        <option value="$PROJECT_DIR$/cart2/forms.py" />
+        <option value="$PROJECT_DIR$/cart2/models.py" />
+        <option value="$PROJECT_DIR$/cart2/urls.py" />
+        <option value="$PROJECT_DIR$/cart2/views.py" />
+        <option value="$PROJECT_DIR$/cart2/templates/cart.html" />
+        <option value="$PROJECT_DIR$/cart/models.py" />
+        <option value="$PROJECT_DIR$/cart/admin.py" />
+        <option value="$PROJECT_DIR$/cart/forms.py" />
+        <option value="$PROJECT_DIR$/cart/views.py" />
+        <option value="$PROJECT_DIR$/cart/urls.py" />
+        <option value="$PROJECT_DIR$/cart/templates/cart.html" />
+        <option value="$PROJECT_DIR$/films/admin.py" />
+        <option value="$PROJECT_DIR$/FilmsStore/urls.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/animation.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/films/views.py" />
+        <option value="$PROJECT_DIR$/films/forms.py" />
+        <option value="$PROJECT_DIR$/films/templates/film.html" />
+        <option value="$PROJECT_DIR$/films/urls.py" />
+        <option value="$PROJECT_DIR$/films/models.py" />
+        <option value="$PROJECT_DIR$/FilmsStore/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="films" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilmsStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/film_db.sqlite3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\FilmsStore\FilmsStore\cart" />
+      <recent name="C:\FilmsStore\FilmsStore\cart\templates" />
+      <recent name="C:\FilmsStore\FilmsStore\templates" />
+      <recent name="C:\FilmsStore\FilmsStore\films\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.FilmsStore">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FilmsStore" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FilmsStore.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FilmsStore" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.FilmsStore" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5eeee5-3107-4830-bca6-d70aabf3a51d" name="Default" comment="" />
+      <created>1424098679118</created>
+      <updated>1424098679118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32520324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854986" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31042296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31604537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32682925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854986" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29229608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31707317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/templates/film.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="27" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="35" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="43" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/templates/film.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="16" selection-start="417" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/django/contrib/staticfiles/templatetags/staticfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="4" selection-start="403" selection-end="403" vertical-scroll-proportion="0.33247423" vertical-offset="160" max-vertical-offset="697" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="4" selection-start="1913" selection-end="1934" vertical-scroll-proportion="0.33247423" vertical-offset="1095" max-vertical-offset="6902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="13" selection-start="616" selection-end="616" vertical-scroll-proportion="0.9119171" vertical-offset="209" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/django/forms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="391" column="8" selection-start="15773" selection-end="15773" vertical-scroll-proportion="0.3327674" vertical-offset="6179" max-vertical-offset="11288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2842377" vertical-offset="497" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilmsStore/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilmsStore/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1576" column="6" selection-start="59221" selection-end="59221" vertical-scroll-proportion="0.073005095" vertical-offset="26256" max-vertical-offset="34476" />
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/30269fe4-3896-42d0-8139-86e3388261e2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>30269fe4-3896-42d0-8139-86e3388261e2</OriginalElement>
+          <nodes>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_user_user_permissions</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:django_content_type</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_user_groups</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:comments</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:film</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:django_session</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:sqlite_sequence</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:cart_cartitem</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:django_admin_log</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_permission</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_group_permissions</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_group</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:django_migrations</node>
+            <node x="" y="">30269fe4-3896-42d0-8139-86e3388261e2.table:auth_user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7408866995073891" x="387.0" y="848.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/templates/films.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="290" selection-end="290" vertical-scroll-proportion="0.36756757" vertical-offset="0" max-vertical-offset="370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="320" selection-end="320" vertical-scroll-proportion="0.5177665" vertical-offset="0" max-vertical-offset="394" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/django/conf/urls/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="4" selection-start="1983" selection-end="2040" vertical-scroll-proportion="0.3324397" vertical-offset="709" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="584" selection-end="584" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilmsStore/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="81" selection-start="524" selection-end="524" vertical-scroll-proportion="0.4746193" vertical-offset="0" max-vertical-offset="394" />
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/19ee748b-439a-4bf6-94da-c15ed67e7f13">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>19ee748b-439a-4bf6-94da-c15ed67e7f13</OriginalElement>
+          <nodes>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_group</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_group_permissions</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:sqlite_sequence</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_user</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:django_admin_log</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_user_groups</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_permission</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:django_content_type</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:django_session</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:django_migrations</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:comments</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:order</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:film</node>
+            <node x="" y="">19ee748b-439a-4bf6-94da-c15ed67e7f13.table:auth_user_user_permissions</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8548717948717948" x="534.0" y="906.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/django/forms/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="8" selection-start="8732" selection-end="8732" vertical-scroll-proportion="0.33248731" vertical-offset="3286" max-vertical-offset="20026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/templates/film.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="65" selection-start="326" selection-end="326" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilmsStore/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="23" selection-start="838" selection-end="838" vertical-scroll-proportion="0.4848485" vertical-offset="318" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

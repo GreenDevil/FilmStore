@@ -1,0 +1,12 @@
+{% extends 'index.html' %}
+{%  load staticfiles %}
+
+{% block film %}
+{% for film in films %}
+    <h2><a href="/films/get/{{ film.id }}">{{ film.title }}</a></h2>
+    <p>Описание: {{ film.description }}</p>
+    <p>Стоимость: {{ film.value }}</p>
+    <p>Количество на складе: {{ film.quantity }}</p>
+    <hr>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends 'index.html' %}
+{% load staticfiles %}
+
+{% block film %}
+    <h1>{{ film.title }}</h1>
+    <p>Описание: {{ film.description }}</p>
+    <p>Стоимость: {{ film.value }}</p>
+    <p>Количество на складе: {{ film.quantity }}</p>
+
+        {% block order %}
+    <form  method="post" action="/films/addorder/{{ film.id }}/">
+            <div class="fieldWrapper">
+            <label for="quantity">Количество:</label>
+            {% csrf_token %}
+            {{ formo }}
+            </div>
+        <input type="submit" class="btn-danger" value="Купить">
+    </form>
+        {% endblock %}
+
+    <hr>
+
+    <div class="col-md-9 col-md-push-3">
+    <h3>Комментарии:</h3>
+{% for comment in comments %}
+    <p>{{ comment.comments_text }}</p>
+{% endfor %}
+    </div>
+    <div class="col-md-9">
+        <form method="post" action="/films/addcomment/{{ film.id }}/">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" class="btn-danger" value="Добавить комментарий">
+        </form>
+    </div>
+
+{% endblock %}
